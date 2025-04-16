@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Generated audio files
+*.mp3
+
+# Temporary files
+mylist.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+tasks.txt
